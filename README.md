@@ -315,7 +315,9 @@ _WARNING  Computed fully qualified role name of vector_role does not follow curr
 
 В первом задании это удалось обойти при помощи параметра _role_name_check: 1_
 
-Однако при использовании Tox этот параметр не помогает
+Однако при использовании Tox этот параметр не помогает.
+
+пробовал править meta/main.yml файл различными вариантами - не помогает. Версия ansible core 2.16.2
 
 _Computed fully qualified role name of vector_role does not follow current galaxy requirements_
 
