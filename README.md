@@ -253,6 +253,7 @@ INFO     Pruning extra files from scenario ephemeral directory
 
 6. Добавьте новый тег на коммит с рабочим сценарием в соответствии с семантическим версионированием.
 
+[Release 1.0.0](https://github.com/SSitkarev/vector_role/tree/1.0.0)
 
 ## Tox
 
